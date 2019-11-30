@@ -1,0 +1,5 @@
+add_subdirectory( nodeseat )
+add_subdirectory( cliseat )
+add_subdirectory( keyseatd )
+add_subdirectory( cubetrain-launcher )
+add_subdirectory( cubetrain-abigen )
